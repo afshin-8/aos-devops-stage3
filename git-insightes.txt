@@ -1,0 +1,3 @@
+Waht does git log show?
+What does git diff show?
+Why is commit message quality important in DevOps?
